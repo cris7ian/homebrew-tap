@@ -10,4 +10,5 @@ cask "mana" do
   depends_on macos: :ventura
 
   app "Mana.app"
+  binary "Mana.app/Contents/MacOS/Mana", target: "mana"
 end
