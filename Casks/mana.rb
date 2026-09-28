@@ -4,7 +4,7 @@ cask "mana" do
 
   url "https://github.com/cris7ian/mana/releases/download/v#{version}/Mana-#{version}.dmg"
   name "Mana"
-  desc "Track AI coding usage in the macOS menu bar"
+  desc "Track AI coding usage from the menu bar"
   homepage "https://mana.salsaparapizza.com/"
 
   depends_on macos: :ventura
