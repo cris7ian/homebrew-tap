@@ -1,6 +1,6 @@
 cask "mana" do
-  version "1.0.7"
-  sha256 "8d00f543db3570494a247815f0ed46ea5f87c29f879cedc35e6642eb2dc03702"
+  version "1.0.8"
+  sha256 "6ea5bff4e17e92cf51bd4d20b36083193767b2d85421fdc592fd0e8b2365a896"
 
   url "https://github.com/cris7ian/mana/releases/download/v#{version}/Mana-#{version}.dmg"
   name "Mana"
